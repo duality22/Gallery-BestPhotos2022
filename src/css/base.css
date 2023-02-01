@@ -18,7 +18,7 @@
 	--size-text: 1rem;
 	--size-meta: 0.85rem;
 	--margin-text: 5vw;
-	--color-selected: #10f376;
+	--color-selected: #87efb6;
 }
 
 html {
@@ -34,7 +34,7 @@ body {
 	font-family: sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background: #10f376;
+	background: #cc3329;
     background-blend-mode: lighten;
     overflow: hidden;
 }
